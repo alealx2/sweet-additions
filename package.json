@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
-  "homepage": "https://alealx2.github.io",
+  "homepage": "https://alealx2.github.io/sweet-additions/",
   "scripts": {
     "dev": "shopify hydrogen dev",
     "build": "shopify hydrogen build",
